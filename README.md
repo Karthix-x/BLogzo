@@ -1,4 +1,4 @@
-# BLogzo
+# Blogzo
 * A Mini Blog management system using CodeIgniter PHP <br>
 * Blogzo has client side and a admin side.
 * Admin side consists of login authentication and admin can perfrom CRUD operation on the blogs, pairing with CK editor API the blogs can be customised.
